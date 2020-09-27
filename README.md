@@ -21,3 +21,6 @@ You can do what i cannot do, I can do what you cannot do. Together we can do gre
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
   /></a>
 &nbsp;
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlanPhanChan" alt="alanphan" /> </p>
+

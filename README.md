@@ -22,5 +22,8 @@ You can do what i cannot do, I can do what you cannot do. Together we can do gre
   /></a>
 &nbsp;
 
+### Personal Dashboard
+<div align="left">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AlanPhanChan" alt="alanphan" /> </p>
 <a class="ai-header-badge" target="_blank" href="https://twitter.com/AlanPhanChan"><img src="https://img.shields.io/twitter/follow/AlanPhanChan.svg?label=Follow&style=social"></a>
+</div>
